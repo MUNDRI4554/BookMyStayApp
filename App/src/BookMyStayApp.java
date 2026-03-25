@@ -73,8 +73,7 @@ class BookingProcessor implements Runnable {
     }
 }
 
-public class BookMyStayApp
-{
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
